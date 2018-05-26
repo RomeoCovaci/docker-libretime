@@ -13,7 +13,7 @@ echo "listen_addresses='*'" >> /etc/postgresql/9.3/main/postgresql.conf
 echo "Clone libretime"
 mkdir /libretime_src
 cd /libretime_src
-git clone https://github.com/LibreTime/libretime.git
+git clone https://github.com/RomeCovaci/libretime.git
 #
 #
 # activate RabbitMQ management
